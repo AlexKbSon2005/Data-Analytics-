@@ -49,8 +49,8 @@ The analysis revealed critical factors contributing to customer churn, such as g
 
 ## Tools Used
 - **Power BI**: For data visualization and dashboard creation.
-- **Python**: (if applicable) For data preprocessing, feature engineering, and modeling.
-- **SQL/MySQL**: (if applicable) For data extraction and management.
+- **Python**: For data preprocessing, feature engineering, and modeling.
+
 
 ## How to Use
 1. Clone this repository.
